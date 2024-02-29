@@ -1,0 +1,8 @@
+{
+    "manifest_version":3,
+    "name":"Anti tab switcher",
+    "version":1,
+    "permissions":[
+        "tabs"
+    ]
+}
