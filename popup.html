@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Practice Tab Blocker</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Coding Practice Tab Blocker</h1>
+        <p>This extension prevents tab switching on coding practice platforms like LeetCode, HackerRank, and Codeforces.
+
+        </p>
+        <input type="checkbox" id="toggle">
+        <label for="toggle">Enable Tab Blocking</label>
+        <p>Status: <span id="status">Disabled</span></p>
+        <p>Is Current URL a Coding Platform: <span id="currentUrl"></span></p>
+
+
+    </div>
+    <script src="popup.js"></script>
+</body>
+
+</html>

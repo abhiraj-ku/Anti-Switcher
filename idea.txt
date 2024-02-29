@@ -1,6 +1,0 @@
-This is a simple project in which we are building a chrome extension which detects tab switch while you are practicing coding on 
-platforms like codeforces , hackerrank, leetcode etc and blocks you from switching so that you can be honest with you
-
-Note: this is dev branch , it will only be used to test features and nothing else the main brach is still "main" .
-
-Future ideas:
